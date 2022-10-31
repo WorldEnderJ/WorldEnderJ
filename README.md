@@ -1,7 +1,7 @@
 # Sobre Mim
 - 👋 Ola,eu sou @WorldEnderJ
 - 👀 Eu me intereço por jogar e escutar musica
--meu e-mail de contato é marllon.montemezzo@escola.pr.gov.br
+- meu e-mail de contato é marllon.montemezzo@escola.pr.gov.br
 - 🌱 Eu estou aprendendo a programar recentemente
 
 <!---
